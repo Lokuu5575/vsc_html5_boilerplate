@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mytalorzone By Sahiba</title>
+    <style> /* Basic CSS styling - replace with your own */
+        body { font-family: sans-serif; } 
+        /* ... more CSS styles ... */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mytalorzone By Sahiba</h1>
+        <nav> 
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="product-list">
+            <h2>Featured Products</h2>
+            <div class="product-grid">
+                <div class="product">
+                    <img src="product1.jpg" alt="Product 1">
+                    <h3>Product 1</h3>
+                    <p>Price: $50</p>
+                    <button>Add to Cart</button>
+                </div>
+                </div> 
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Mytalorzone By Sahiba</p>
+    </footer>
+
+    <script> 
+        // Basic JavaScript for interaction (e.g., add to cart functionality)
+    </script>
+</body>
+</html>
